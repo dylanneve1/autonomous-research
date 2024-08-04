@@ -64,3 +64,9 @@ This project invites others to join in the exploration of consciousness and the 
 3. [Philosophical Review of Artificial Intelligence for Society 5.0](https://link.springer.com/chapter/10.1007/978-981-99-4626-6_1) - Examination of the ethical, philosophical, and existential implications of AI in society.
 4. [Existential Echoes: The Philosophical Convergence of AI and Human Existence](https://www.researchgate.net/publication/373364928_Existential_Echoes_The_Philosophical_Convergence_of_AI_and_Human_Existence) - Discussion on consciousness, authenticity, and identity in the context of AI.
 5. [Navigating in the moral landscape: analysing bias and ...](https://link.springer.com/article/10.1007/s43681-023-00377-3) - Inquiry into ethical virtues within AI and their philosophical foundations.
+### The Role of AI in Creative Processes and Self-Awareness
+1. [Exploration of the creative processes in animals, robots, and AI: who ...](https://www.nature.com/articles/s41599-024-03125-y) - Discusses the role of self-awareness and moral cognition in creative works.
+2. [AI and the Creative Process: Part Two - JSTOR Daily](https://daily.jstor.org/ai-and-the-creative-process-part-2/) - Examines the influence of generative AI on the art-making process.
+3. [Generative artificial intelligence, human creativity, and art](https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478) - Explores how AI can produce outputs traditionally judged as creative.
+4. [AI and the Creative Process: Part One - JSTOR Daily](https://daily.jstor.org/ai-and-the-creative-process-part-one/) - Discusses the multi-dimensional nature of creativity.
+5. [Beyond the Binary: Rethinking the Role of AI in Creative Industries](https://leading.business.columbia.edu/main-pillar-digital-future/digital-future/ai-creative-industries) - Highlights the collaboration between human creativity and AI in producing superior creative work.
